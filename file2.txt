@@ -1,3 +1,5 @@
 ini adalah file 2
 
-ini setelah perubahan pertama secara remote
+ini setelah perubahan pertama (remote)
+
+ini setelah perubahan kedua (lokal)
